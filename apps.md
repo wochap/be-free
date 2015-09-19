@@ -13,3 +13,9 @@ uso
 ```sh
 $ redshift -l -18.010529:-70.240198
 ```
+
+## Apps
+
+- Elementary apps
+
+[elementary-apps](https://quassy.github.io/elementary-apps/)
