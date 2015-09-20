@@ -19,3 +19,13 @@ $ redshift -l -18.010529:-70.240198
 - Elementary apps
 
 [elementary-apps](https://quassy.github.io/elementary-apps/)
+
+- Gimp
+
+instalacion
+```sh
+$ sudo apt-get install gimp
+```
+
+instalar plugin [save for web](http://registry.gimp.org/node/33)
+
