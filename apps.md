@@ -14,6 +14,18 @@
   ```sh
   $ redshift -l -18.010529:-70.240198
   ```
+  
+- [Show Desktop](https://www.reddit.com/r/elementaryos/comments/2sbgrs/showdesktop_doesnt_work_on_freya/)
+ 
+ * instalacion       
+ ```sh
+  $ sudo apt-get install wmctrl
+  ```
+ Then add the custom command in Settings > Desktop > Hot Corners:    
+ ```sh
+  $ wmctrl -k on
+  ```
+ 
 
 ## [Apps](https://oduso.com/)
 
