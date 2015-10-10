@@ -14,3 +14,8 @@ $ sudo chmod -R 777 <nombre_de_la_carpeta>
 ```sh
 $ pwd
 ```
+
+- Cambiar propietario de una carpeta y todo su contenido
+```sh
+$ sudo chown <usuario> -R <carpeta>
+```
