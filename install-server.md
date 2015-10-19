@@ -31,7 +31,7 @@
  - reiniciar servidor
  
  ```sh
-  $ sudo service apache2 restart                                                                                
+  $ sudo service apache2 restart                                        
  ```
  
 
@@ -40,6 +40,12 @@
  
  ```sh
   $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt                            
+ ```
+ 
+ - mcrypt
+ ```sh
+  $ cd /etc/php5/cli/conf.d                         
+  $ sudo ln -s ../../mods-available/mcrypt.ini 20-mcrypt.ini               
  ```
  
 ### PostgresSQL                           
