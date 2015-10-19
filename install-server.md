@@ -14,30 +14,45 @@
 ## Instalacion
 
 ### Git
+
  ```sh
-  $ sudo add-apt-repository ppa:git-core/ppa
-  $ sudo apt-get update
-  $ sudo apt-get install git
+  $ sudo add-apt-repository ppa:git-core/ppa       
+  $ sudo apt-get update                             
+  $ sudo apt-get install git                                                 
  ```
 
 ### Apache
  - instalacion
+ 
  ```sh
-  $ sudo apt-get update
-  $ sudo apt-get install apache2
+  $ sudo apt-get update                
+  $ sudo apt-get install apache2                
  ```
  - reiniciar servidor
+ 
  ```sh
-  $ sudo service apache2 restart
+  $ sudo service apache2 restart                                                                                
  ```
  
 
 ### Php
  - instalacion
+ 
  ```sh
-  $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt
+  $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt                                                
  ```
  
- 
+### PostgresSQL                           
+- instalacion
 
+ * instalar server                           
+ ```sh
+  $ sudo apt-get install postgresql postgresql-contrib                                                      
+  $ apt-cache search postgres                           
+ ```
+* instalar cliente                                                      
 
+```sh
+  $ sudo apt-get install pgadmin3                                                      
+  $ sudo apt-get install postgresql-client                           
+ ```
