@@ -39,20 +39,29 @@
  - instalacion
  
  ```sh
-  $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt                                                
+  $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt                            
  ```
  
 ### PostgresSQL                           
 - instalacion
 
  * instalar server                           
+ 
  ```sh
-  $ sudo apt-get install postgresql postgresql-contrib                                                      
-  $ apt-cache search postgres                           
+  $ sudo apt-get install postgresql postgresql-contrib                                    
+  $ apt-cache search postgres  
  ```
 * instalar cliente                                                      
 
-```sh
+ ```sh
   $ sudo apt-get install pgadmin3                                                      
   $ sudo apt-get install postgresql-client                           
  ```
+
+### Nodejs 
+
+ ```sh
+  $ curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+  $ sudo apt-get install --yes nodejs                       
+ ```
+ 
