@@ -76,3 +76,23 @@
   $ sudo apt-get install --yes nodejs                       
  ```
  
+### Ruby
+ - [rvm](http://elementaryos.stackexchange.com/questions/2577/how-to-install-ruby-2-2-3-on-elementary-os-freya)
+ ```sh
+  $ -keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 
+\curl -O https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer 
+\curl -O https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer.asc 
+gpg --verify rvm-installer.asc && 
+bash rvm-installer stable                       
+ ```
+ - ruby
+ ```sh
+  $ rvm get stable --autolibs=enable
+  $ rvm install 2.2.3    
+  $ rvm --default use ruby-2.2.3
+ ```
+ 
+ - sass
+ ```sh
+  $ sudo su -c "gem install sass"
+ ```
