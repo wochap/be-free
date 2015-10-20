@@ -44,7 +44,7 @@
   $ sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt                            
  ```
  
- - mcrypt
+ - [mcrypt](http://www.kvcodes.com/2014/07/laravel-requires-mcrypt-php-extension/)       
  ```sh
   $ cd /etc/php5/cli/conf.d                         
   $ sudo ln -s ../../mods-available/mcrypt.ini 20-mcrypt.ini               
