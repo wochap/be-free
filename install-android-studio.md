@@ -5,5 +5,9 @@
   ```sh
     $ sudo add-apt-repository ppa:webupd8team/java           
     $ sudo apt-get update                  
-    $ sudo apt-get install oracle-java8-installer                                                                       
+    $ sudo apt-get install oracle-java8-installer                          
   ```
+
+## [Android Studio](https://juanpc617.wordpress.com/2015/03/02/instalar-android-studio-en-elementary-os-luna/)
+
+
