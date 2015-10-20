@@ -48,6 +48,11 @@
   $ sudo ln -s ../../mods-available/mcrypt.ini 20-mcrypt.ini               
  ```
  
+ - postgres driver
+ ```sh
+  $ sudo apt-get install php5-pgsql
+ ```
+ 
 ### PostgresSQL                           
 - instalacion
 
