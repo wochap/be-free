@@ -51,4 +51,10 @@
 
   * bloquear [publicidad](https://rhoconlinux.wordpress.com/2015/06/25/megapost-spotify-gratis-y-sin-anuncios-en-ubuntu-14-04-o-superior/)
  
+- Whatsapp                                           
+  
+  * [instalacion](https://rhoconlinux.wordpress.com/2015/06/27/whatsapp-en-ubuntu-como-instalarlo-y-configurarlo-super-facil/)                        
+  ```sh
+  $ cd /tmp/ && clear ; wget https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsApp_linux64.deb -O whatsapp.deb && sudo apt-get install gdebi -y ; sudo gdebi -n whatsapp.deb ; cd ; clear
+  ```
 
