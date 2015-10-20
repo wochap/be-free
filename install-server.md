@@ -31,8 +31,10 @@
  - reiniciar servidor
  
  ```sh
-  $ sudo service apache2 restart                                        
+  $ sudo service apache2 restart                                               
  ```
+ 
+ - solucionar problemas al [reiniciar](http://tutorialforlinux.blogspot.pe/2013/10/solve-problem-ah00558-when-restarting.html) apache
  
 
 ### Php
