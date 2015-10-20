@@ -68,7 +68,7 @@
   $ sudo apt-get install pgadmin3                                                      
   $ sudo apt-get install postgresql-client                           
  ```
-- configuracion
+- configuracion                   
  1) ingresar como super usuario                 
   ```sh
    $ sudo su                     
@@ -115,5 +115,5 @@ bash rvm-installer stable
  
  - sass
  ```sh
-  $ sudo su -c "gem install sass"
+  $ gem install sass
  ```
