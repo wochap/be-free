@@ -33,8 +33,11 @@
 
   * instalacion:  
   ```sh
-   $ sudo add-apt-repository ppa:teejee2008/ppa
-   $ sudo apt-get update 
-   $ sudo apt-get install conky-manager
+   $ sudo add-apt-repository ppa:teejee2008/ppa                   
+   $ sudo apt-get update                    
+   $ sudo apt-get install conky-manager                                      
   ```
   añadir conky-manager al arranque
+  
+  * instalar themas                                  
+  copiar themas dentro de `/home/<user>/.conky/`
