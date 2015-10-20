@@ -28,3 +28,13 @@
   descomprimes en `/home/<user_name>/.themes/`
   cambias el tema con tweaks
   si no te funciona, copialos tambien en `/usr/share/themes/`
+
+## Instalar [conky](http://elementaryos.stackexchange.com/questions/222/how-install-conky-manager-on-freya)
+
+  * instalacion:  
+  ```sh
+   $ sudo add-apt-repository ppa:teejee2008/ppa
+   $ sudo apt-get update 
+   $ sudo apt-get install conky-manager
+  ```
+  añadir conky-manager al arranque
