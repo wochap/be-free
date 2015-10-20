@@ -53,6 +53,12 @@
   $ sudo apt-get install php5-pgsql
  ```
  
+ - composer                   
+ ```sh
+  $ curl -sS https://getcomposer.org/installer | php                     
+  $ mv composer.phar /usr/local/bin/composer                 
+ ```
+ 
 ### PostgresSQL                           
 - instalacion
 
