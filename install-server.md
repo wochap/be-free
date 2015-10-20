@@ -9,7 +9,7 @@
   * Intentar dar permisos de lectura a la carpeta
   
   * Intenta esta [solucion](http://stackoverflow.com/questions/10873295/error-message-forbidden-you-dont-have-permission-to-access-on-this-server)
-  * 
+  
   
 ## Instalacion
 
@@ -62,13 +62,34 @@
   $ sudo apt-get install postgresql postgresql-contrib                                    
   $ apt-cache search postgres  
  ```
-* instalar cliente                                                      
+ * instalar cliente                                                      
 
  ```sh
   $ sudo apt-get install pgadmin3                                                      
   $ sudo apt-get install postgresql-client                           
  ```
-
+- configuracion
+ 1) ingresar como super usuario                 
+  ```sh
+   $ sudo su                     
+  ```
+ 2) ingresar como usuario posgtgres                   
+  ```sh
+   $ su postgres                     
+  ```
+ 3) cambiar contraseña al usuario postgres             
+  ```sh
+   $ psql -U postgres                
+   $ postgres=# alter user postgres with password 'CONTRASENA_DEL_USUARIO';  
+   $ \q                     
+   
+   $ exit
+  ```
+ 4) reiniciar postgres
+  ```sh
+   $ service postgresql restart
+  ```
+ 
 ### Nodejs 
 
  ```sh
