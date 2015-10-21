@@ -41,3 +41,48 @@
   
   * instalar themas                                  
   copiar themas dentro de `/home/<user>/.conky/`
+
+## Instalar burg
+
+Here I leave the tutorial to install the system startup BURG
+
+
+We open the terminal and follow these steps:
+
+Add the repository:
+
+$sudo add-apt-repository ppa:n-muench/burg
+
+$sudo apt-get update
+
+Install Burg:
+
+$sudo apt-get install burg
+
+We leave all options as they come, except there "Grub Install brands Devices ", check / dev / sda  with the space key, then accept and go.
+
+To install the themes:
+
+We unzip the .zip folder, copy the folder that contained, and paste in the following path in a file browser as administrator: /boot /burg /themes
+
+After update the burg in terminal with the following command:
+
+$sudo update-burg
+
+To choose a theme and configure its resolution emulate the burg with the following command in the terminal:
+
+$sudo burg-emu -D
+
+Press "T" ket to choose theme, "R" to change resolution, and "F"  to group the distro versions elements.
+
+Download the themes:
+
+https://drive.google.com/folderview?id=0B5bLNnaSeLcXfkhyZ3loMUJUTVRuYlF5ekJLSFI3bWdPbC1tUVBwdkxhUkEwNE1HMUpMWkk&usp=sharing
+
+To uninstall:
+
+$sudo apt-get purge burg burg-emu burg-pc burg-themes-common burg-common burg-themes
+
+and reinstall:
+
+$sudo apt-get install burg burg-emu burg-pc burg-themes-common burg-common burg-themes﻿
