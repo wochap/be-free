@@ -100,9 +100,22 @@
  
 ### Nodejs 
 
+ - instalacion                     
  ```sh
   $ curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
   $ sudo apt-get install --yes nodejs                       
+ ```
+ - upgrade [npm](https://docs.npmjs.com/getting-started/installing-node)                     
+ ```sh
+  $ sudo npm install npm@latest -g                
+ ```
+ 
+ - upgrade [node](http://davidwalsh.name/upgrade-nodejs)                     
+ ```sh
+  $ sudo npm cache clean -f             
+  $ sudo npm install -g n                  
+  $ sudo n stable                 
+  $ node -v             
  ```
  
 ### Ruby
