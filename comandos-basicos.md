@@ -19,3 +19,12 @@ $ pwd
 ```sh
 $ sudo chown <usuario> -R <carpeta>
 ```
+
+- Cambiar permisos a futuros archivos de una carpeta
+```sh
+$ sudo setfacl -Rdm g:groupnamehere:rwx <carpeta>
+
+$ sudo umask 0000
+```
+
+
