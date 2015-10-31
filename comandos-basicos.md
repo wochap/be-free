@@ -27,4 +27,10 @@ $ sudo setfacl -Rdm g:groupnamehere:rwx <carpeta>
 $ sudo umask 0000
 ```
 
+- Montar disco ([Solve Windows Partition Mount Problem In Ubuntu Dual Boot](Solve Windows Partition Mount Problem In Ubuntu Dual Boot))
+```sh
+$ sudo ntfsfix /dev/sdXY
+```
+
+
 
