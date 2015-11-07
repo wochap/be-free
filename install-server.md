@@ -61,6 +61,11 @@
   $ mv composer.phar /usr/local/bin/composer                 
  ```
  
+ - requires ext-curl                   
+ ```sh
+  $ sudo apt-get install php5-curl                      
+ ```
+ 
 ### PostgresSQL                           
 - instalacion
 
