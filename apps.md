@@ -49,6 +49,15 @@
   
   * instalar plugin [save for web](http://registry.gimp.org/node/33), install [guide](https://github.com/auris/gimp-save-for-web)
 
+
+- Dconf
+  
+  * Instalacion
+  ```sh 
+  $ sudo apt-get install dconf-tools
+  ```
+
+
 ## Apps non-free
 
 - Spotify
