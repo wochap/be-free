@@ -38,6 +38,15 @@
   $ sudo apt-get install gimp
   ```
   
+- Indicator synapse
+
+  * instalacion  
+  ```sh
+  $ sudo add-apt-repository ppa:synapse-core/ppa
+  $ sudo apt-get update
+  $ sudo apt-get install synapse
+  ```
+  
   * instalar plugin [save for web](http://registry.gimp.org/node/33), install [guide](https://github.com/auris/gimp-save-for-web)
 
 ## Apps non-free
