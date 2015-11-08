@@ -42,6 +42,11 @@
   * instalar themas                                  
   copiar themas dentro de `/home/<user>/.conky/`
 
+## Cambiar theme del terminal
+  * instalacon
+   [link](http://mayccoll.github.io/Gogh/)
+
+
 ## Instalar burg
 
 Here I leave the tutorial to install the system startup BURG
