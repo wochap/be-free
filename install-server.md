@@ -103,6 +103,27 @@
    $ service postgresql restart
   ```
  
+### [Mysql](http://zonaelementaryos.com/2015/05/07/crear-servidor-web-lamp/)                           
+- instalacion
+
+ * instalar server                           
+ 
+ ```sh
+  $ sudo apt-get install mysql-server mysql-client             
+ ```
+ * instalar phpmyadmin                                                        
+
+ ```sh
+  $ sudo apt-get install phpmyadmin                  
+ ``` 
+ 
+ - configuracion                    
+ 
+ * http://localhost/phpmyadmin devuelve 404, debemos incluir `Include /etc/phpmyadmin/apache.conf` al final del archivo `apache2.conf`    
+ ```sh
+ $ sudo nano /etc/apache2/apache2.conf
+ ```
+ 
 ### Nodejs 
 
  - instalacion                     
