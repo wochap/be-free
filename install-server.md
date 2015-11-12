@@ -124,6 +124,9 @@
  $ sudo nano /etc/apache2/apache2.conf
  ```
  
+ * [cambiar contraseña mysql](http://blog.desdelinux.net/como-cambiar-el-password-del-usuario-root-de-mysql-por-terminal/)
+ 
+ 
 ### Nodejs 
 
  - instalacion                     
