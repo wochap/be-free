@@ -33,4 +33,9 @@ $ sudo ntfsfix /dev/sdXY
 ```
 
 
+## Grub 
 
+```sh
+$ root=(hd0,gpt7)       
+$ configfile /boot/grub/grub.cfg
+```
