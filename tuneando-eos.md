@@ -45,6 +45,18 @@
 ## Cambiar theme del terminal
   * instalacon
    [link](http://mayccoll.github.io/Gogh/)
+ 
+
+## Me
+
+* Icons             
+ [Yosemite Icons](http://zacpier.deviantart.com/art/Yosemite-Icons-for-Linux-494175906)
+
+* Terminal                  
+ [powerline](http://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/) 
+
+* Plank                
+  [rainer](https://burguerblog.wordpress.com/2015/11/16/como-personalizar-plank-en-elementary-os-freya/)
 
 
 ## Instalar burg
