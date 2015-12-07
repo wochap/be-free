@@ -1,5 +1,7 @@
 # [Aplicaciones](https://oduso.com/)
 
+## [Luego de instalar elementary](http://sandeepbhardwaj.github.io/2015/10/23/things-to-do-after-installing-elementary-os-freya.html)
+
 ## Utiles
 
 - Redshift: programa para aliviar el cansancio ocular.
