@@ -59,6 +59,13 @@
   $ sudo apt-get install dconf-tools
   ```
 
+- Gpick
+  
+  * Instalacion
+  ```sh 
+  $ sudo apt-get install gpick
+  ```
+  
 
 ## Apps non-free
 
