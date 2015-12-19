@@ -27,6 +27,12 @@ $ sudo setfacl -Rdm g:groupnamehere:rwx <carpeta>
 $ sudo umask 0000
 ```
 
+- Ver informacion de la pc, bios modelo etc
+```sh
+$ sudo dmidecode -t bios -q
+```
+
+
 - Montar disco ([Solve Windows Partition Mount Problem In Ubuntu Dual Boot](Solve Windows Partition Mount Problem In Ubuntu Dual Boot))
 ```sh
 $ sudo ntfsfix /dev/sdXY
