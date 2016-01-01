@@ -28,6 +28,20 @@
   $ wmctrl -k on
   ```
  
+## Dev Apps
+
+- [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
+```sh
+$ sudo apt-get install terminator
+```
+
+- [Shutter](https://apps.ubuntu.com/cat/applications/shutter/)
+```sh
+$ sudo add-apt-repository ppa:shutter/ppa
+$ sudo apt-get update
+$ sudo apt-get install shutter
+```
+
 
 ## [Apps](https://oduso.com/)
 
