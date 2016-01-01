@@ -45,7 +45,7 @@
 ## Cambiar theme del terminal
   * instalacon
    [link](http://mayccoll.github.io/Gogh/)
- 
+   [4 bit](http://ciembor.github.io/4bit/)
 
 ## Me
 
