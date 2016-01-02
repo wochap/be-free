@@ -47,6 +47,8 @@ $ sudo apt-get install shutter
 
 - [Elementary apps](https://quassy.github.io/elementary-apps/)
 
+- [LibreOffice](http://zonaelementaryos.com/2015/08/05/instalar-libreoffice-en-elementary-os/)
+
 - Gimp
 
   * instalacion  
