@@ -1,5 +1,10 @@
 # Comandos basicos
 
+- Ubicar un ejecutable
+```sh
+$ which <nombre_del_ejecutable> 
+```
+
 - Ingresar como superusuario
 ```sh
 $ sudo su
