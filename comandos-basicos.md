@@ -32,16 +32,31 @@ $ sudo setfacl -Rdm g:groupnamehere:rwx <carpeta>
 $ sudo umask 0000
 ```
 
-- Ver informacion de la pc, bios modelo etc
-```sh
-$ sudo dmidecode -t bios -q
-```
-
 
 - Montar disco ([Solve Windows Partition Mount Problem In Ubuntu Dual Boot](Solve Windows Partition Mount Problem In Ubuntu Dual Boot))
 ```sh
 $ sudo ntfsfix /dev/sdXY
 ```
+
+## [Ver informacion de tu hardware](http://www.thegeekstuff.com/2008/11/how-to-get-hardware-information-on-linux-using-dmidecode-command/)
+
+| Keyword   | Types     |
+|-----------|:---------:|
+| bios   | 0, 13   |
+| system   | 1, 12, 15, 23, 32   |
+| baseboard   | 2, 10   |
+| chassis   | 3   |
+| processor   | 4   |
+| memory   | string   |
+| memory   | string   |
+| memory   | string   |
+| memory   | string   |
+
+```sh
+$ sudo dmidecode -t bios -q
+```
+
+
 
 
 ## Grub 
