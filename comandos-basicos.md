@@ -32,7 +32,6 @@ $ sudo setfacl -Rdm g:groupnamehere:rwx <carpeta>
 $ sudo umask 0000
 ```
 
-
 - Montar disco ([Solve Windows Partition Mount Problem In Ubuntu Dual Boot](Solve Windows Partition Mount Problem In Ubuntu Dual Boot))
 ```sh
 $ sudo ntfsfix /dev/sdXY
@@ -47,17 +46,19 @@ $ sudo ntfsfix /dev/sdXY
 | baseboard   | 2, 10   |
 | chassis   | 3   |
 | processor   | 4   |
-| memory   | string   |
-| memory   | string   |
-| memory   | string   |
-| memory   | string   |
+| memory   | 5, 6, 16, 17   |
+| cache   | 7   |
+| connector   | 8   |
+| slot   | 9   |
 
+```sh
+$ sudo dmidecode -t <keyword>
+```
+Example
+ 
 ```sh
 $ sudo dmidecode -t bios -q
 ```
-
-
-
 
 ## Grub 
 
