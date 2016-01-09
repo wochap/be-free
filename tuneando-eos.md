@@ -26,6 +26,8 @@ $ sudo apt-get install elementary-tweaks
 ## [Customize your theme](http://eos-snippets.blogspot.pe/2014/12/fix-toolbar-synaptic-in-freya.html)
 Dev tools for customize themes:
 * [GTK Parasite](https://github.com/chipx86/gtkparasite)
+* [GTK Inspector](http://askubuntu.com/questions/597259/how-do-i-open-gtk-inspector)
+
 
 ## Instalar [iconos](http://gnome-look.org/)
 
