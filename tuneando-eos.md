@@ -24,6 +24,8 @@ $ sudo apt-get install elementary-tweaks
   ZoomPercent=150
 
 ## [Customize your theme](http://eos-snippets.blogspot.pe/2014/12/fix-toolbar-synaptic-in-freya.html)
+Dev tools for customize themes:
+* [GTK Parasite](https://github.com/chipx86/gtkparasite)
 
 ## Instalar [iconos](http://gnome-look.org/)
 
