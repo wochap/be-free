@@ -1,5 +1,13 @@
 # Tuneando eOS
 
+## Install Tweaks
+
+```sh
+$ sudo apt-add-repository ppa:mpstark/elementary-tweaks-daily
+$ sudo apt-get update
+$ sudo apt-get install elementary-tweaks
+```
+
 ## Pequeños detalles
 
 - Plank: Efecto zoom
@@ -14,6 +22,8 @@
   ~/.config/plank/dock1/settings
   ZoomEnabled=true
   ZoomPercent=150
+
+## [Customize your theme](http://eos-snippets.blogspot.pe/2014/12/fix-toolbar-synaptic-in-freya.html)
 
 ## Instalar [iconos](http://gnome-look.org/)
 
