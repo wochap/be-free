@@ -26,7 +26,10 @@
 
   * instalacion:  
   descomprimes en `/home/<user_name>/.themes/`
-  cambias el tema con tweaks
+  cambias el tema con tweaks o con el siguiente comando
+ ```sh
+ $ gsettings set org.gnome.desktop.interface gtk-theme "CoolestThemeOnEarth"
+ ```
   si no te funciona, copialos tambien en `/usr/share/themes/`
 
 ## Instalar [conky](http://elementaryos.stackexchange.com/questions/222/how-install-conky-manager-on-freya)
