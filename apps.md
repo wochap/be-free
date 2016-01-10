@@ -83,7 +83,12 @@ $ sudo apt-get install shutter
   ```sh 
   $ sudo apt-get install gpick
   ```
-  
+
+## Hackintosh  
+
+- [convert dmg to iso](http://dailytechnologiesupdate.blogspot.pe/2011/11/converting-dmg-to-iso-file-in-ubuntu.html)
+
+
 
 ## Apps non-free
 
