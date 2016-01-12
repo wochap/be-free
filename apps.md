@@ -58,7 +58,7 @@ $ sudo apt-get install shutter
   $ sudo apt-get install gimp
   ```
   
-- Indicator synapse
+- Synapse
 
   * instalacion  
   ```sh
@@ -66,7 +66,15 @@ $ sudo apt-get install shutter
   $ sudo apt-get update
   $ sudo apt-get install synapse
   ```
-  
+- Indicator Synapse
+ 
+  * instalacion  
+  ```sh
+  $ sudo add-apt-repository ppa:noobslab/apps
+  $ sudo apt-get update
+  $ sudo apt-get install indicator-synapse
+  ```
+   
   * instalar plugin [save for web](http://registry.gimp.org/node/33), install [guide](https://github.com/auris/gimp-save-for-web)
 
 
