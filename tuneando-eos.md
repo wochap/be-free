@@ -23,6 +23,10 @@ $ sudo apt-get install elementary-tweaks
   ZoomEnabled=true
   ZoomPercent=150
 
+## [Docky](https://twobytech.wordpress.com/2016/01/15/instala-y-personaliza-docky-el-dock-que-el-dinero-no-puede-comprar/) 
+
+## Tunear [VLC](https://twobytech.wordpress.com/2016/01/09/dos-hermosos-skins-para-vlc-player/)
+
 ## [Customize your theme](http://eos-snippets.blogspot.pe/2014/12/fix-toolbar-synaptic-in-freya.html)
 Dev tools for customize themes:
 * [GTK Parasite](https://github.com/chipx86/gtkparasite)
