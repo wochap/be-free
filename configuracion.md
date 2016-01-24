@@ -21,3 +21,10 @@
   HandleLidSwitch=ignore para no hacer nada
 
 * Reinicia el sistema. 
+
+## [Continuar escuchando la musica al bloquear (lock screen)](http://elementaryos.stackexchange.com/questions/3468/is-it-possible-to-continue-playing-music-even-system-gets-locked-for-inactivity)
+
+```
+$ sudo usermod -a -G audio <myusername>
+```
+
