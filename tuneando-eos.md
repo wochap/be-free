@@ -68,6 +68,26 @@ Dev tools for customize themes:
    [link](http://mayccoll.github.io/Gogh/)
    [4 bit](http://ciembor.github.io/4bit/)
 
+
+## Instalar GLOBAL MENU
+
+  * instalacion:  
+  ```sh
+   $ sudo add-apt-repository ppa:varlesh-l/test
+   $ sudo apt-get update
+   $ sudo apt-get install --reinstall wingpanel=0.3~r217-1 indicator-appmenu
+   $ gsettings set org.pantheon.desktop.wingpanel blacklist "['']"
+   $ killall wingpanel                                    
+  ```
+  * desinstalacion (volver a instalar wingpanel):  
+  ```sh
+   $ sudo add-apt-repository ppa:varlesh-l/test
+   $ sudo apt-get update
+   $ sudo apt-get install --reinstall wingpanel=0.3~r217-1 indicator-appmenu
+   $ gsettings set org.pantheon.desktop.wingpanel blacklist "['']"
+   $ killall wingpanel                                
+  ```
+
 ## Me
 
 * Icons             
