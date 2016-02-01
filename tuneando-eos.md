@@ -81,11 +81,12 @@ Dev tools for customize themes:
   ```
   * desinstalacion (volver a instalar wingpanel):  
   ```sh
-   $ sudo add-apt-repository ppa:varlesh-l/test
+   $ sudo apt-get purge wingpanel indicator-appmenu
+   $ sudo add-apt-repository -r ppa:varlesh-l/test
    $ sudo apt-get update
-   $ sudo apt-get install --reinstall wingpanel=0.3~r217-1 indicator-appmenu
-   $ gsettings set org.pantheon.desktop.wingpanel blacklist "['']"
-   $ killall wingpanel                                
+   $ sudo apt-get install --reinstall pantheon-shell wingpanel
+   $ gsettings set org.pantheon.desktop.wingpanel blacklist "['libappmenu.so']"
+   $ killall wingpanel                          
   ```
 
 ## Me
