@@ -32,6 +32,7 @@ Dev tools for customize themes:
 * [GTK Parasite](https://github.com/chipx86/gtkparasite)
 * [GTK Inspector](http://askubuntu.com/questions/597259/how-do-i-open-gtk-inspector)
 
+## [Customize theme and window buttons](http://srv12.cpanelhost.cl/~cl119365/eos/ )
 
 ## Instalar [iconos](http://gnome-look.org/)
 
