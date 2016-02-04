@@ -34,6 +34,8 @@ Dev tools for customize themes:
 
 ## [Customize theme and window buttons](http://srv12.cpanelhost.cl/~cl119365/eos/ )
 
+## [Instalar plymouth](http://mhsnotes.blogspot.co.id/2016/02/install-custom-plymouth-on-elementary_3.html)
+
 ## Instalar [iconos](http://gnome-look.org/)
 
   * instalacion:  
