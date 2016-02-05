@@ -78,6 +78,13 @@ $ sudo apt-get install shutter
    
   * instalar plugin [save for web](http://registry.gimp.org/node/33), install [guide](https://github.com/auris/gimp-save-for-web)
 
+- [Network indicator](http://mhsnotes.blogspot.co.id/2016/02/install-network-indicator-on-elementary.html)
+ 
+```sh
+$ sudo apt-add-repository ppa:fixnix/netspeed
+$ sudo apt-get update
+$ sudo apt-get install indicator-netspeed-unity
+```
 
 - Dconf
   
