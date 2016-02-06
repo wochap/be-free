@@ -1,5 +1,18 @@
 # Tuneando eOS
 
+## Instalar rEEF
+
+ * Instalar 
+
+```sh
+$ sudo apt-add-repository ppa:rodsmith/refind
+$ sudo apt-get update
+$ sudo apt-get install refind
+```
+
+ * Instalar [tema minimal](http://evanpurkhiser.com/rEFInd-minimal/)
+ 
+
 ## Install Tweaks
 
 ```sh
