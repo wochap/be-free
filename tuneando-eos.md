@@ -112,7 +112,7 @@ Dev tools for customize themes:
 
 * install [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 
-
+## [Cambiar Splash Screen](http://gnome-look.org/content/show.php?content=171239)
 
 ## Mi configuracion
 
