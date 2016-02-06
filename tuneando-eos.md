@@ -81,7 +81,8 @@ Dev tools for customize themes:
 
 ## Cambiar theme del terminal
   * instalacon
-   [link](http://mayccoll.github.io/Gogh/)
+   [varios](http://mayccoll.github.io/Gogh/)
+
    [4 bit](http://ciembor.github.io/4bit/)
 
 
@@ -105,16 +106,13 @@ Dev tools for customize themes:
    $ killall wingpanel                          
   ```
 
-## Me
+## Mi configuracion
 
-* Icons             
- [Yosemite Icons](http://zacpier.deviantart.com/art/Yosemite-Icons-for-Linux-494175906)
+* Iconos        
 
-* Terminal                  
- [powerline](http://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/) 
+  [Yosemite Icons](http://zacpier.deviantart.com/art/Yosemite-Icons-for-Linux-494175906)
+ 
 
-* Plank                
-  [rainer](https://burguerblog.wordpress.com/2015/11/16/como-personalizar-plank-en-elementary-os-freya/)
 
 
 
