@@ -106,6 +106,14 @@ Dev tools for customize themes:
    $ killall wingpanel                          
   ```
 
+## [Instalar Fish](https://github.com/fisherman/fisherman/wiki/Installing-Fish)
+
+* install [fisherman](https://github.com/fisherman/fisherman/wiki/Quickstart-Guide)
+
+* install [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
+
+
+
 ## Mi configuracion
 
 * Iconos        
