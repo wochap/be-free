@@ -19,3 +19,22 @@ test
 ```sh
 $ composer
 ```
+
+## 2 [NVM](https://github.com/creationix/nvm#installation)
+
+* Pre requires
+
+```sh
+$ sudo apt-get install build-essential libssl-dev
+```
+
+* Install and config
+
+```sh
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
+
+# restart terminal
+
+$ nvm install stable
+$ nvm alias default 5.6.0
+```
