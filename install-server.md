@@ -127,7 +127,7 @@
  * [cambiar contraseña mysql](http://blog.desdelinux.net/como-cambiar-el-password-del-usuario-root-de-mysql-por-terminal/)
  
  
-### Nodejs 
+### Nodejs (Recomiendo inslatar [nvm](https://github.com/creationix/nvm))
 
  - instalacion                                 
  ```sh                             
