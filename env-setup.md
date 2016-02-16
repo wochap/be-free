@@ -1,6 +1,6 @@
 # Environment Setup (Elementary OS)
 
-## 1. PHP + Composer
+## 1. [PHP + Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
 
 * PHP
 
