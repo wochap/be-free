@@ -126,3 +126,4 @@ $ sudo apt-get install indicator-netspeed-unity
   $ cd /tmp/ && clear ; wget https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsApp_linux64.deb -O whatsapp.deb && sudo apt-get install gdebi -y ; sudo gdebi -n whatsapp.deb ; cd ; clear
   ```
 
+## [FIX DUPLICATED PPA](http://askubuntu.com/questions/456321/duplicate-sources-list-entry-ubuntu-14-04)
