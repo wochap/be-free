@@ -127,3 +127,5 @@ $ sudo apt-get install indicator-netspeed-unity
   ```
 
 ## [FIX DUPLICATED PPA](http://askubuntu.com/questions/456321/duplicate-sources-list-entry-ubuntu-14-04)
+
+## [FIX GPG ERROR](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
