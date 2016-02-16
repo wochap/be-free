@@ -80,6 +80,8 @@ Dev tools for customize themes:
   copiar themas dentro de `/home/<user>/.conky/`
 
 ## Cambiar theme del terminal
+ antes [habilitar cambio](http://unix.stackexchange.com/questions/141066/change-colors-for-the-pantheon-terminal-emulator)
+
   * instalacon
    [varios](http://mayccoll.github.io/Gogh/)
 
