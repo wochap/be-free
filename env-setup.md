@@ -50,3 +50,14 @@ $ nvm alias default 5.6.0
 ## 4. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
 
 
+# Clear 
+
+## [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
+
+Tu lista de repositorios limpia como una patena Y PPA Manager
+
+```
+sudo add-apt-repository ppa:webupd8team/y-ppa-manager
+sudo apt-get update
+sudo apt-get install y-ppa-manager
+```
