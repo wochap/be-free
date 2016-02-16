@@ -1,6 +1,14 @@
 # Environment Setup (Elementary OS)
 
-## 1. [PHP + Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
+## 1. GIT
+
+```sh
+$ sudo add-apt-repository ppa:git-core/ppa
+$ sudo apt-get update
+$ sudo apt-get install git
+```
+
+## 2. [PHP + Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
 
 * PHP
 
@@ -20,7 +28,7 @@ test
 $ composer
 ```
 
-## 2 [NVM](https://github.com/creationix/nvm#installation)
+## 3. [NVM](https://github.com/creationix/nvm#installation)
 
 * Pre requires
 
@@ -39,12 +47,6 @@ $ nvm install stable
 $ nvm alias default 5.6.0
 ```
 
-## 3 [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
+## 4. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
 
-## 4 GIT
 
-```sh
-$ sudo add-apt-repository ppa:git-core/ppa
-$ sudo apt-get update
-$ sudo apt-get install git
-```
