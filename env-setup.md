@@ -40,3 +40,11 @@ $ nvm alias default 5.6.0
 ```
 
 ## 3 [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
+
+## 4 GIT
+
+```sh
+$ sudo add-apt-repository ppa:git-core/ppa
+$ sudo apt-get update
+$ sudo apt-get install git
+```
