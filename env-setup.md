@@ -1,4 +1,4 @@
-## Env setup
+# Environment Setup (Elementary OS)
 
 ## 1. PHP + Composer
 
