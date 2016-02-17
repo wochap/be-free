@@ -1,3 +1,8 @@
+# Apps
+
+## 1. [Startup apps](http://unix.stackexchange.com/questions/184751/how-to-access-and-edit-startup-applications-in-elementary-os-freya-beta-2)
+
+
 # [Aplicaciones](https://oduso.com/)
 [mas apps](https://quassy.github.io/elementary-apps/apps/)
 
