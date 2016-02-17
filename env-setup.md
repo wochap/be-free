@@ -78,7 +78,7 @@ sudo apt-get install y-ppa-manager
 
 # Extras
 
-## a) [Linuxbrew](https://github.com/Linuxbrew/linuxbrew#installation)
+## a) [Linuxbrew](https://github.com/Linuxbrew/linuxbrew)
 
 Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux.
 
