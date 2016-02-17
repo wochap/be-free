@@ -8,6 +8,8 @@ $ sudo apt-get update
 $ sudo apt-get install git
 ```
 
+[Git addons](https://github.com/stevemao/awesome-git-addons)
+
 ## 2. [PHP + Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
 
 * PHP
