@@ -63,3 +63,15 @@ sudo add-apt-repository ppa:webupd8team/y-ppa-manager
 sudo apt-get update
 sudo apt-get install y-ppa-manager
 ```
+
+## 6. [RVM](https://github.com/rvm/rvm)
+
+```sh
+$ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+$ curl -L https://get.rvm.io | bash -s stable --autolibs=enabled --ruby --trace
+
+# restart terminal
+
+$ rvm install ruby --latest
+$ rvm use 2.2.1 --default 
+```
