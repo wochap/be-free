@@ -1,6 +1,12 @@
 # Apps
 
-## 1. [Startup apps](http://unix.stackexchange.com/questions/184751/how-to-access-and-edit-startup-applications-in-elementary-os-freya-beta-2)
+## 1. [See Startup apps](http://unix.stackexchange.com/questions/184751/how-to-access-and-edit-startup-applications-in-elementary-os-freya-beta-2)
+
+```sh
+# display hidden startup apps
+
+$ sudo sed -i 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/*.desktop
+```
 
 
 # [Aplicaciones](https://oduso.com/)
