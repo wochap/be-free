@@ -49,7 +49,19 @@ $ nvm install stable
 $ nvm alias default 5.6.0
 ```
 
-## 4. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
+## 4. [RVM](https://github.com/rvm/rvm)
+
+```sh
+$ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+$ curl -L https://get.rvm.io | bash -s stable --autolibs=enabled --ruby --trace
+
+# restart terminal
+
+$ rvm install ruby --latest
+$ rvm use 2.2.1 --default 
+```
+
+## 5. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
 
 
 # Clear 
@@ -64,14 +76,3 @@ sudo apt-get update
 sudo apt-get install y-ppa-manager
 ```
 
-## 6. [RVM](https://github.com/rvm/rvm)
-
-```sh
-$ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-$ curl -L https://get.rvm.io | bash -s stable --autolibs=enabled --ruby --trace
-
-# restart terminal
-
-$ rvm install ruby --latest
-$ rvm use 2.2.1 --default 
-```
