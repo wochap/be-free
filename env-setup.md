@@ -66,7 +66,7 @@ $ rvm use 2.2.1 --default
 
 # Clear 
 
-## [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
+## a) [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
 
 Tu lista de repositorios limpia como una patena Y PPA Manager
 
@@ -76,3 +76,15 @@ sudo apt-get update
 sudo apt-get install y-ppa-manager
 ```
 
+# Extras
+
+## a) [Linuxbrew](https://github.com/Linuxbrew/linuxbrew#installation)
+
+Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux.
+
+```sh
+# Pre requires
+$ sudo apt-get install build-essential curl git m4 python-setuptools ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev zlib1g-dev
+
+# Follow instruction https://github.com/Linuxbrew/linuxbrew#installation
+```
