@@ -17,7 +17,11 @@ $ sudo apt-get install git
 * PHP
 
 ```sh
-$ sudo apt-get install php5-cli
+$ sudo apt-get install php5-cli php5-mcrypt
+
+# enable mcrypt
+$ cd /etc/php5/cli/conf.d                         
+$ sudo ln -s ../../mods-available/mcrypt.ini 20-mcrypt.ini               
 ```
 
 * Composer
