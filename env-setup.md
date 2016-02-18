@@ -69,6 +69,20 @@ $ rvm use 2.2.1 --default
 
 ## 5. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
 
+# Apps
+
+## 1. Terminal
+
+* [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
+
+```sh
+$ sudo add-apt-repository ppa:gnome-terminator
+$ sudo apt-get update
+$ sudo apt-get install terminator
+```
+
+* [ZSH](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
+* [Theme](https://github.com/oskarkrawczyk/honukai-iterm-zsh)
 
 # Clear 
 
