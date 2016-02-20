@@ -21,10 +21,10 @@ vm.swappiness=10
 ```sh
 # Type in the terminal: 
 $ sudo subl /etc/rc.local
-
-# Above the line exit 0 in that file, you now add the TRIM command fstrim for every automatically mounted EXT4 partition.
-# If you have a separate home partition, then you add the following line as well, above exit 0: fstrim /home
 ```
+
+Above the line exit 0 in that file, you now add the TRIM command fstrim for every automatically mounted EXT4 partition.
+If you have a separate home partition, then you add the following line as well, above exit 0: fstrim /home
 
 ```
 # /etc/rc.local
