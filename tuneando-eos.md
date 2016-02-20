@@ -1,5 +1,27 @@
 # Tuneando eOS
 
+## 1. Add desktop
+
+```sh
+# Install Nautilus without all the related Gnome packages and dconf-editor
+$ sudo apt-get install --no-install-recommends nautilus dconf-tools
+
+# Open dconf-tool and go to, and tick the show-desktop-icons box
+org.gnome.nautilus.desktop
+
+# Then go to
+org.pantheon.desktop.cerbere
+
+# Add nautilus -n so the entry should look somewhat like this:
+['wingpanel', 'plank', 'slingshot-launcher --silent', 'nautilus -n']
+
+# Open terminal and run:
+$ nautilus -n
+
+# Go to and tick the show-desktop-icons box
+org.gnome.desktop.background
+```
+
 ## Instalar rEEF
 
  * Instalar 
