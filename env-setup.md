@@ -17,7 +17,7 @@ $ sudo apt-get install git
 * PHP
 
 ```sh
-$ sudo apt-get install php5-cli php5-mcrypt
+$ sudo apt-get install php5-cli php5-mcrypt php5-curl
 
 # enable mcrypt
 $ cd /etc/php5/cli/conf.d                         
