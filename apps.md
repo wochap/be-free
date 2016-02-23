@@ -8,6 +8,26 @@
 $ sudo sed -i 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/*.desktop
 ```
 
+## 2. [Wondershaper](http://unix.stackexchange.com/questions/28198/how-to-limit-network-bandwidth)
+
+An easy tool to limit bandwidth of a particular interface.
+
+```sh
+$ sudo apt-get install wondershaper
+
+# Use
+$ sudo wondershaper {interface} {down} {up}
+
+# the {down} and {up} are bandwidth in kpbs
+$ sudo wondershaper eth1 256 128
+
+# To clear the limit
+$ sudo wondershaper clear eth1 
+
+# See interfaces
+$ ifconfig -a
+```
+
 
 # [Aplicaciones](https://oduso.com/)
 [mas apps](https://quassy.github.io/elementary-apps/apps/)
