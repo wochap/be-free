@@ -28,6 +28,13 @@ $ sudo wondershaper clear eth1
 $ ifconfig -a
 ```
 
+## 3. [F.Lux](https://justgetflux.com/linux.html)
+
+```sh
+$ sudo add-apt-repository ppa:kilian/f.lux
+$ sudo apt-get update
+$ sudo apt-get install fluxgui
+```
 
 # [Aplicaciones](https://oduso.com/)
 [mas apps](https://quassy.github.io/elementary-apps/apps/)
