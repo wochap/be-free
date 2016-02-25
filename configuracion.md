@@ -28,3 +28,13 @@
 $ sudo usermod -a -G audio <myusername>
 ```
 
+## 1. [Hide GRUB](http://elementaryos.stackexchange.com/questions/3666/how-to-remove-or-hide-the-grub-boot-menu-in-elementary-os)
+
+```sh
+# Change GRUB_TIMEOUT value to 0 which is 10 by default.
+$ sudo nano /etc/default/grub
+$ sudo update-grub
+
+# Now reboot.
+```
+
