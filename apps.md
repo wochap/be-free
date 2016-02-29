@@ -36,6 +36,8 @@ $ sudo apt-get update
 $ sudo apt-get install fluxgui
 ```
 
+## 4. [Indicators](https://github.com/fossfreedom/indicator-sysmonitor)
+
 # [Aplicaciones](https://oduso.com/)
 [mas apps](https://quassy.github.io/elementary-apps/apps/)
 
