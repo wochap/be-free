@@ -91,9 +91,19 @@ $ sudo apt-get install terminator
 Tu lista de repositorios limpia como una patena Y PPA Manager
 
 ```
-sudo add-apt-repository ppa:webupd8team/y-ppa-manager
-sudo apt-get update
-sudo apt-get install y-ppa-manager
+$ sudo add-apt-repository ppa:webupd8team/y-ppa-manager
+$ sudo apt-get update
+$ sudo apt-get install y-ppa-manager
+```
+
+## b) (banish404)[https://datafull.co/p/como-puedo-solucionar-un-error-404-cuando-uso-un-ppa-o-actualizo-mi-lista-de-paquetes]
+
+Eliminar ppas con 404
+
+```sh
+$ sudo add-apt-repository ppa:fossfreedom/packagefixes
+$ sudo apt-get update
+$ sudo apt-get install banish404
 ```
 
 # Extras
