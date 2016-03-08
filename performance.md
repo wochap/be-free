@@ -49,7 +49,7 @@ fstrim /home
 exit 0
 ```
 
-3. [Battery Life](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html)
+## 3. [Battery Life](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html)
 
 ```sh
 $ sudo add-apt-repository ppa:linrunner/tlp
