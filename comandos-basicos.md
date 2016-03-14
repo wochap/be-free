@@ -1,5 +1,13 @@
 # Comandos basicos
 
+- When Elementary freezes
+```sh
+# 1) go to the virtual console
+# Ctrl+Alt+F1
+# 2) execute
+$ gala -d :0 --replace
+```
+
 - Ubicar un ejecutable
 ```sh
 $ which <nombre_del_ejecutable> 
