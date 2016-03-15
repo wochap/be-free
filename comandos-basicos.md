@@ -1,4 +1,4 @@
-# Comandos basicos
+# [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
 - When Elementary freezes
 ```sh
