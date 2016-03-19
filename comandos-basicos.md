@@ -1,5 +1,12 @@
 # [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
+- Ejecutar ultimo comando como sudo
+```sh
+$ sudo !!
+# or
+$ !$
+```
+
 - When Elementary freezes
 ```sh
 # 1) go to the virtual console
