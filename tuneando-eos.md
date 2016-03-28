@@ -148,3 +148,9 @@ Dev tools for customize themes:
 
 ## [personalizar iconos de lanzadores](https://burguerblog.wordpress.com/2015/11/30/como-personalizar-facilmente-nuestros-lanzadores-en-elementary-os-freya/)
 
+
+## Compiz
+
+```sh
+sudo apt-get install compiz compizconfig-settings-manager compiz-plugins-extras
+```
