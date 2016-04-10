@@ -96,7 +96,7 @@ $ sudo apt-get update
 $ sudo apt-get install y-ppa-manager
 ```
 
-## b) (banish404)[https://datafull.co/p/como-puedo-solucionar-un-error-404-cuando-uso-un-ppa-o-actualizo-mi-lista-de-paquetes]
+## b) [banish404](https://datafull.co/p/como-puedo-solucionar-un-error-404-cuando-uso-un-ppa-o-actualizo-mi-lista-de-paquetes)
 
 Eliminar ppas con 404
 
@@ -122,3 +122,11 @@ $ sudo apt-get install build-essential curl git m4 python-setuptools ruby texinf
 # Drivers
 
 ## [Video Nvidia](http://www.ubuntu-guia.com/2010/04/instalar-driver-de-tarjetas-nvidia-en.html)
+
+```sh
+$ sudo add-apt-repository ppa:graphics-drivers/ppa
+
+$ sudo apt-get update
+
+$ sudo apt-get install nvidia-352 nvidia-settings
+```
