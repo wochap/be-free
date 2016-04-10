@@ -118,3 +118,7 @@ $ sudo apt-get install build-essential curl git m4 python-setuptools ruby texinf
 
 # Follow instruction https://github.com/Linuxbrew/linuxbrew#installation
 ```
+
+# Drivers
+
+## [Video Nvidia](http://www.ubuntu-guia.com/2010/04/instalar-driver-de-tarjetas-nvidia-en.html)
