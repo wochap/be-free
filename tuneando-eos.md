@@ -46,6 +46,15 @@ $ sudo apt-get install elementary-tweaks
 ## Pequeños detalles
 
 - Plank: Efecto zoom
+ 
+```sh
+# edita settings de plank
+$ nano ~/.config/plank/dock1/settings
+
+# cambia lo siguiente
+# ZoomEnabled=true
+# ZoomPercent=150
+```
 
   * instalacion:
   ```sh
@@ -53,10 +62,7 @@ $ sudo apt-get install elementary-tweaks
   $ sudo apt-get update
   $ sudo apt-get install plank
   ```
-  * parametros:
-  ~/.config/plank/dock1/settings
-  ZoomEnabled=true
-  ZoomPercent=150
+  
 
 ## [Docky](https://twobytech.wordpress.com/2016/01/15/instala-y-personaliza-docky-el-dock-que-el-dinero-no-puede-comprar/) 
 
