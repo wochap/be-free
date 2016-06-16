@@ -59,8 +59,6 @@ $ sudo apt install snapd
 * Gnome System Monitor
 ```sh
 $ sudo apt-get install gnome-system-monitor
-$ sudo apt-get update
-$ sudo apt-get install atom
 ```
 
 ### Chrome
