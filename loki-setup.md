@@ -41,3 +41,5 @@ $ sudo apt-get install elementary-tweaks
 * Y PPA Manager
 * Gpick
 * Spotify
+* Simple Screen Recorder
+* Caffeine Plus
