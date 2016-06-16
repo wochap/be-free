@@ -31,6 +31,8 @@ $ sudo apt-get install elementary-tweaks
 
 ### Snap
 
+Universal linux app packages
+
 Explore snap packages, [here](https://uappexplorer.com/apps?type=snappy)
 
 ```sh
