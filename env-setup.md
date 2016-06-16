@@ -67,7 +67,7 @@ $ rvm install ruby --latest
 $ rvm use 2.2.1 --default 
 ```
 
-## 5. [Docker](https://gist.github.com/wdullaer/f1af16bd7e970389bad3)
+## 5. [Docker](https://docs.docker.com/linux/step_one/)
 
 # Apps
 
