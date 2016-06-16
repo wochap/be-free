@@ -92,6 +92,14 @@ $ sudo apt-get update
 $ sudo apt-get install silentcast
 ```
 
+## 2. Atom editor
+
+```sh
+$ sudo add-apt-repository ppa:webupd8team/atom
+$ sudo apt-get update
+$ sudo apt-get install atom
+```
+
 # Clear 
 
 ## a) [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
