@@ -29,6 +29,17 @@ $ sudo apt-get update
 $ sudo apt-get install elementary-tweaks
 ```
 
+### Snap
+
+Explore snap packages, [here](https://uappexplorer.com/apps?type=snappy)
+
+```sh
+$ sudo apt install snapd
+
+# For create a snap
+# $ sudo apt install snapcraft
+```
+
 ### Many apps
 
 * Gitkraken
@@ -43,3 +54,4 @@ $ sudo apt-get install elementary-tweaks
 * Spotify
 * Simple Screen Recorder
 * Caffeine Plus
+* Gnome System Monitor
