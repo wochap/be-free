@@ -7,7 +7,7 @@
 ```sh
 $ sudo apt-get update
 $ sudo apt-get install software-properties-common
-```sh
+```
 
 ### Brightness
 
