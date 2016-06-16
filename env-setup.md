@@ -84,13 +84,6 @@ $ sudo apt-get install terminator
 * [ZSH](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 * [Theme](https://github.com/oskarkrawczyk/honukai-iterm-zsh)
 
-## [silentcast](https://github.com/colinkeenan/silentcast)
-
-```sh
-$ sudo add-apt-repository ppa:sethj/silentcast
-$ sudo apt-get update
-$ sudo apt-get install silentcast
-```
 
 ## 2. Atom editor
 
