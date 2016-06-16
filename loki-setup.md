@@ -88,3 +88,11 @@ sudo apt-get update
 # 4. Install Spotify
 sudo apt-get install spotify-client
 ```
+
+### [silentcast](https://github.com/colinkeenan/silentcast)
+
+```sh
+$ sudo add-apt-repository ppa:sethj/silentcast
+$ sudo apt-get update
+$ sudo apt-get install silentcast
+```
