@@ -57,6 +57,9 @@ $ sudo apt install snapd
 * Simple Screen Recorder
 * Caffeine Plus
 * Gnome System Monitor
+```sh
+$ sudo apt-get install gnome-system-monitor
+```
 
 ### Chrome
 
