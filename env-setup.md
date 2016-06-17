@@ -88,6 +88,9 @@ $ sudo apt-get install fish
 # add repo key
 wget http://download.opensuse.org/repositories/shells:fish:release:2/Debian_8.0/Release.key
 apt-key add - < Release.key  
+
+# set fish default shell
+$ chsh -s /usr/bin/fish
 ```
 
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
