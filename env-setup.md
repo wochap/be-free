@@ -78,6 +78,14 @@ $ rvm use 2.2.1 --default
 $ sudo apt-get install tmux
 ```
 
+* Fish
+
+```sh
+$ sudo echo 'deb http://download.opensuse.org/repositories/shells:/fish:/release:/2/Debian_8.0/ /' >> /etc/apt/sources.list.d/fish.list 
+$ sudo apt-get update
+$ sudo apt-get install fish
+```
+
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
 
 ```sh
