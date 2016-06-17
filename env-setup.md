@@ -73,6 +73,11 @@ $ rvm use 2.2.1 --default
 
 ## 1. Terminal
 
+* Tmux
+```sh
+$ sudo apt-get install tmux
+```
+
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
 
 ```sh
