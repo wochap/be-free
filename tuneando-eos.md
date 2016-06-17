@@ -33,15 +33,6 @@ $ sudo apt-get install refind
 ```
 
  * Instalar [tema minimal](http://evanpurkhiser.com/rEFInd-minimal/)
- 
-
-## Install Tweaks
-
-```sh
-$ sudo apt-add-repository ppa:mpstark/elementary-tweaks-daily
-$ sudo apt-get update
-$ sudo apt-get install elementary-tweaks
-```
 
 ## Pequeños detalles
 
