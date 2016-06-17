@@ -17,6 +17,14 @@ $ sudo apt-get install git
 * PHP
 
 ```sh
+# 16.04
+
+$ sudo apt-get install php-cli php-mbstring unzip
+```
+
+```sh
+# 14.04
+
 $ sudo apt-get install php5-cli php5-mcrypt php5-curl
 
 # enable mcrypt
@@ -27,6 +35,20 @@ $ sudo ln -s ../../mods-available/mcrypt.ini 20-mcrypt.ini
 * Composer
 
 ```sh
+# 16.04
+
+$ cd ~
+$ curl -sS https://getcomposer.org/installer -o composer-setup.php
+
+# verify installation
+$ php -r "if (hash_file('SHA384', 'composer-setup.php') === '92102166af5abdb03f49ce52a40591073a7b859a86e8ff13338cf7db58a19f7844fbc0bb79b2773bf30791e935dbd938') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+
+$ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+```
+
+```sh
+# 14.04
+
 $ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 ```
 
