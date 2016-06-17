@@ -91,6 +91,12 @@ apt-key add - < Release.key
 
 # set fish default shell
 $ chsh -s /usr/bin/fish
+
+# install fish nvm
+$ fisher nvm
+
+# install fish theme simple
+$ fisher simple
 ```
 
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
@@ -102,6 +108,7 @@ $ sudo apt-get install terminator
 ```
 
 * [ZSH](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
+
 * [Theme](https://github.com/oskarkrawczyk/honukai-iterm-zsh)
 
 
