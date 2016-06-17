@@ -69,6 +69,8 @@ $ rvm use 2.2.1 --default
 
 ## 5. [Docker](https://docs.docker.com/linux/step_one/)
 
+and install [docker-compose](https://docs.docker.com/compose/install/)
+
 # Apps
 
 ## 1. Terminal
