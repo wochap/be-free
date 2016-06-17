@@ -19,7 +19,7 @@ $ sudo apt-get install git
 ```sh
 # 16.04
 
-$ sudo apt-get install php-cli php-mbstring unzip
+$ sudo apt-get install php-cli php-mcrypt php-mbstring unzip
 ```
 
 ```sh
