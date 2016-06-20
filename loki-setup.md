@@ -96,3 +96,40 @@ $ sudo add-apt-repository ppa:sethj/silentcast
 $ sudo apt-get update
 $ sudo apt-get install silentcast
 ```
+
+# 3. SSD Config
+
+### (Create a ram disk)[http://www.hecticgeek.com/2015/12/create-ram-disk-ubuntu-linux/] (for)[https://bugs.launchpad.net/elementaryos/+bug/1415516]:
+
+* /var/log
+* /tmp 
+* /var/cache/apt/archives
+* /home/%NOMUSR%/.cache
+
+```sh
+$ sudo mkdir /mnt/ram   
+$ sudo cp /etc/fstab /etc/fstab.bak
+
+# add/update lines as
+tmpfs /mnt/ram tmpfs rw,size=1G,x-gvfs-show 0 0
+
+tmpfs /var/log tmpfs defaults,nosuid,nodev,noatime,mode=0755,size=5% 0 0
+tmpfs /var/cache/apt/archives tmpfs defaults,size=4g 0 0
+tmpfs /home/%NOMUSR%/.cache tmpfs defaults,size=1g 0 0
+```
+
+### (No Writes for Read Timestamps)[http://askubuntu.com/questions/1400/how-do-i-optimize-the-os-for-ssds]
+
+add noatime, nodiratime
+
+```sh
+# /etc/fstab
+
+# / was on /dev/sda2 during installation
+UUID=587e0dc5-2db1-4cd9-9792-a5459a7bcfd2 /               ext4    noatime,nodiratime,errors=remount-ro 0       1
+
+# /home was on /dev/sda3 during installation
+UUID=2c919dc4-24de-474f-8da0-14c7e1240ab8 /home           ext4    noatime,nodiratime,defaults        0       2
+```
+
+### (Enable TRIM)[http://askubuntu.com/questions/18903/how-to-enable-trim]
