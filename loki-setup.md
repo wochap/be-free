@@ -99,7 +99,7 @@ $ sudo apt-get install silentcast
 
 # 3. SSD Config
 
-### (Create a ram disk)[http://www.hecticgeek.com/2015/12/create-ram-disk-ubuntu-linux/] (for)[https://bugs.launchpad.net/elementaryos/+bug/1415516]:
+### [Create a ram disk](http://www.hecticgeek.com/2015/12/create-ram-disk-ubuntu-linux/) [for](https://bugs.launchpad.net/elementaryos/+bug/1415516):
 
 * /var/log
 * /tmp 
@@ -118,7 +118,7 @@ tmpfs /var/cache/apt/archives tmpfs defaults,size=4g 0 0
 tmpfs /home/%NOMUSR%/.cache tmpfs defaults,size=1g 0 0
 ```
 
-### (No Writes for Read Timestamps)[http://askubuntu.com/questions/1400/how-do-i-optimize-the-os-for-ssds]
+### [No Writes for Read Timestamps](http://askubuntu.com/questions/1400/how-do-i-optimize-the-os-for-ssds)
 
 add noatime, nodiratime
 
@@ -132,4 +132,4 @@ UUID=587e0dc5-2db1-4cd9-9792-a5459a7bcfd2 /               ext4    noatime,nodira
 UUID=2c919dc4-24de-474f-8da0-14c7e1240ab8 /home           ext4    noatime,nodiratime,defaults        0       2
 ```
 
-### (Enable TRIM)[http://askubuntu.com/questions/18903/how-to-enable-trim]
+### [Enable TRIM](http://askubuntu.com/questions/18903/how-to-enable-trim)
