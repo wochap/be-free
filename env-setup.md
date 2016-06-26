@@ -97,6 +97,8 @@ and install [docker-compose](https://docs.docker.com/compose/install/)
 
 ## 1. Terminal
 
+* [Terminix](https://github.com/gnunn1/terminix)
+
 * Tmux
 ```sh
 $ sudo apt-get install tmux
