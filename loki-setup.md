@@ -44,6 +44,7 @@ $ sudo apt install snapd
 
 ### Many apps
 
+* [Rambox](http://rambox.pro/)
 * Gitkraken
 * Gitter
 * Hourglass
