@@ -97,9 +97,18 @@ and install [docker-compose](https://docs.docker.com/compose/install/)
 
 ## 1. Terminal
 
+* [neofetch](https://github.com/dylanaraps/neofetch#ubuntu)
+
+```sh 
+$ sudo add-apt-repository ppa:dawidd0811/neofetch
+$ sudo apt update
+$ sudo apt install neofetch
+``` 
+
 * [Terminix](https://github.com/gnunn1/terminix)
 
 * Tmux
+ 
 ```sh
 $ sudo apt-get install tmux
 ```
