@@ -1,5 +1,26 @@
 # [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
+- Create a RAM disk
+
+```sh
+# create a folder where mount
+$ sudo mkdir /mnt/ram
+
+# edit file who mount on boot
+$ sudo nano /etc/fstab 
+
+# add line
+tmpfs /mnt/ram tmpfs rw,size=2G,x-gvfs-show 0 0
+```
+
+- Mount ISO file
+
+```sh
+$  mount -t iso9660 -o loop file.iso /mnt/ram 
+$ sudo mount -a
+$ sudo umount /mnt/ram/ 
+```
+
 - Ejecutar ultimo comando como sudo
 ```sh
 $ sudo !!
