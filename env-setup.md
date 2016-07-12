@@ -87,6 +87,9 @@ $ curl -L https://get.rvm.io | bash -s stable --autolibs=enabled --ruby --trace
 
 $ rvm install ruby --latest
 $ rvm use 2.2.1 --default 
+
+# fisherman rvm
+$ fisher rvm
 ```
 
 ## 5. [Docker](https://docs.docker.com/linux/step_one/)
