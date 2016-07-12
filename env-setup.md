@@ -77,7 +77,7 @@ $ nvm install stable
 $ nvm alias default 5.6.0
 ```
 
-## 4. [RVM](https://github.com/rvm/rvm)
+## 4. [RVM](https://github.com/rvm/rvm) [Ubuntu guide](https://gorails.com/setup/ubuntu/16.04)
 
 ```sh
 $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
@@ -90,6 +90,8 @@ $ rvm use 2.2.1 --default
 
 # fisherman rvm
 $ fisher rvm
+
+# **IMPORTANT** if you have broken packages, you cant install ruby
 ```
 
 ## 5. [Docker](https://docs.docker.com/linux/step_one/)
