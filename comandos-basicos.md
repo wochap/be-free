@@ -1,5 +1,11 @@
 # [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
+- Install Deb apps
+
+```sh
+$ sudo dpkg -i DEB_PACKAGE
+```
+
 - Create a RAM disk
 
 ```sh
