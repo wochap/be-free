@@ -2,6 +2,10 @@
 
 ## 1. Fixes
 
+### Graphic drivers
+
+add this [ppa](https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers) and update your system
+
 ### Post install
 
 ```sh
