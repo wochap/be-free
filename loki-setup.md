@@ -31,6 +31,10 @@ $ xdotool key XF86MonBrightnessUp
 $ sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 $ sudo apt-get update
 $ sudo apt-get install elementary-tweaks
+
+# Freya
+$ curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
+$ sudo apt-get install elementary-tweaks
 ```
 
 ### Snap
