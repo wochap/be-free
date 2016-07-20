@@ -138,3 +138,9 @@ UUID=2c919dc4-24de-474f-8da0-14c7e1240ab8 /home           ext4    noatime,nodira
 ```
 
 ### [Enable TRIM](http://askubuntu.com/questions/18903/how-to-enable-trim)
+
+## 4. Tunes
+
+### Font family
+
+Install [FiraCode](https://github.com/tonsky/FiraCode)
