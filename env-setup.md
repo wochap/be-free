@@ -139,6 +139,8 @@ $ fisher nvm
 $ fisher simple
 ```
 
+* [Go Terminal](http://rungoterminal.com/)
+
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
 
 ```sh
