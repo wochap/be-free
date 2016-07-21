@@ -106,6 +106,18 @@ $ sudo apt-get update
 $ sudo apt-get install silentcast
 ```
 
+### [Wine + PlayOnLinux](http://zonaelementaryos.com/2015/05/13/instalar-playonlinux-en-elementary-os/)
+
+```sh
+# 14.04 only
+$ sudo apt-get install wine
+
+# trow GPG error
+$ wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add - sudo wget http://deb.playonlinux.com/playonlinux_trusty.list -O /etc/apt/sources.list.d/playonlinux.list
+$ sudo apt-get update
+$ sudo apt-get install playonlinux
+```
+
 # 3. SSD Config
 
 ### [Create a ram disk](http://www.hecticgeek.com/2015/12/create-ram-disk-ubuntu-linux/) [for](https://bugs.launchpad.net/elementaryos/+bug/1415516):
