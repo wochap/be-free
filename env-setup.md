@@ -162,6 +162,10 @@ $ sudo apt-get update
 $ sudo apt-get install atom
 ```
 
+## 3. [ngrok](https://ngrok.com/)
+
+Linux install: Download zip and extract on /bin
+
 # Clear 
 
 ## a) [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
