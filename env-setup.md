@@ -162,6 +162,10 @@ $ sudo apt-get update
 $ sudo apt-get install atom
 ```
 
+Issues
+
+* [gvfs-trash](https://github.com/atom/tree-view/issues/345#issuecomment-135779498)
+
 ## 3. [ngrok](https://ngrok.com/)
 
 Linux install: Download zip and extract on /bin
