@@ -3,9 +3,13 @@
 ## 1. GIT
 
 ```sh
+# install git
 $ sudo add-apt-repository ppa:git-core/ppa
 $ sudo apt-get update
 $ sudo apt-get install git
+
+# config git
+$ git config --global push.followTags true
 ```
 
 ### [Git addons](https://github.com/stevemao/awesome-git-addons)
