@@ -98,9 +98,9 @@ $ fisher rvm
 # **IMPORTANT** if you have broken packages, you cant install ruby
 ```
 
-## 5. [Docker](https://docs.docker.com/linux/step_one/)
+## 5. [Docker](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
 
-and install [docker-compose](https://docs.docker.com/compose/install/)
+and install [docker-compose](https://docs.docker.com/compose/install/) // if neccesary
 
 # Apps
 
