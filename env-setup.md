@@ -125,13 +125,17 @@ $ sudo apt-get install tmux
 * Fish
 
 ```sh
+# installation a
 $ sudo echo 'deb http://download.opensuse.org/repositories/shells:/fish:/release:/2/Debian_8.0/ /' >> /etc/apt/sources.list.d/fish.list 
 $ sudo apt-get update
 $ sudo apt-get install fish
-
 # add repo key
 wget http://download.opensuse.org/repositories/shells:fish:release:2/Debian_8.0/Release.key
-apt-key add - < Release.key  
+apt-key add - < Release.key 
+
+# installation b
+# from link, select version
+# https://launchpad.net/~fish-shell/+archive/ubuntu/release-2/+packages
 
 # set fish default shell
 $ chsh -s /usr/bin/fish
