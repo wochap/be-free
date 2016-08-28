@@ -80,6 +80,9 @@ $ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /
 # install
 $ sudo apt-get update
 $ sudo apt-get install google-chrome-stable
+
+# remove duplicate file
+# /etc/apt/sources.list.d/google.list
 ```
 
 ### Spotify
