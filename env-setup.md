@@ -120,6 +120,10 @@ $ sudo apt install neofetch
  
 ```sh
 $ sudo apt-get install tmux
+
+# run fish when start tmux
+# create a file ~/tmux.conf, with the content
+# set-option -g default-shell /usr/bin/fish
 ```
 
 * Fish
