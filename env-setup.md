@@ -161,6 +161,15 @@ $ sudo apt-get install terminator
 
 * [Theme](https://github.com/oskarkrawczyk/honukai-iterm-zsh)
 
+* Change pantheon-terminal scheme theme to Aci
+
+```sh
+$ gsettings set org.pantheon.terminal.settings palette "#363636:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#b6b6b6:#424242:#ff1e8e:#8eff1e:#ff8e1e:#1e8eff:#8e1eff:#1eff8e:#c2c2c2"
+$ gsettings set org.pantheon.terminal.settings background '#0d1926'
+$ gsettings set org.pantheon.terminal.settings foreground '#b4e1fd'
+$ gsettings set org.pantheon.terminal.settings cursor_color '#b4e1fd'
+
+```
 
 ## 2. Atom editor
 
