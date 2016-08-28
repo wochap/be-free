@@ -59,8 +59,7 @@ $ sudo apt-get install viewnior
 
   * instalacion
   ```sh
-  $ sudo add-apt-repository ppa:jonls/redshift-ppa
-  $ sudo apt-get update && sudo apt-get install redshift
+  $ sudo apt-get install redshift
   ```
 
   * uso  
