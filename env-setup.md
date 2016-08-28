@@ -149,6 +149,8 @@ $ fisher nvm
 
 # install fish theme simple
 $ fisher simple
+# or
+$ fisher /oh-my-fish/theme-cmorrell.com
 ```
 
 * [Go Terminal](http://rungoterminal.com/)
