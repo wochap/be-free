@@ -11,6 +11,7 @@ add this [ppa](https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers) an
 ```sh
 $ sudo apt-get update
 $ sudo apt-get install software-properties-common
+$ sudo apt-get install autoconf
 ```
 
 ### Brightness
