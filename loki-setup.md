@@ -165,3 +165,7 @@ UUID=2c919dc4-24de-474f-8da0-14c7e1240ab8 /home           ext4    noatime,nodira
 Install [Fira Code](https://github.com/tonsky/FiraCode)
 
 Install [San Francisco](https://developer.apple.com/fonts/)
+
+### Icons
+
+Install [Capitaine Cursors](https://www.gnome-look.org/p/1148692/)
