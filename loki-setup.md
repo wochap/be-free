@@ -162,4 +162,6 @@ UUID=2c919dc4-24de-474f-8da0-14c7e1240ab8 /home           ext4    noatime,nodira
 
 ### Font family
 
-Install [FiraCode](https://github.com/tonsky/FiraCode)
+Install [Fira Code](https://github.com/tonsky/FiraCode)
+
+Install [San Francisco](https://developer.apple.com/fonts/)
