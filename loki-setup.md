@@ -71,6 +71,12 @@ $ sudo apt install snapd
 $ sudo apt-get install gnome-system-monitor
 ```
 
+### VLC
+
+```sh
+$ sudo apt-get install vlc
+```
+
 ### Chrome
 
 ```sh
