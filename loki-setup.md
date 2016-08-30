@@ -48,6 +48,7 @@ $ sudo apt-get install albert
 # config
 # Websearch
 # URL: https://www.google.com.pe/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%s
+# URL: https://github.com/search?utf8=✓&q=%s
 # Name: Google
 # Trigger: gg
 ```
