@@ -38,6 +38,20 @@ $ curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash -
 $ sudo apt-get install elementary-tweaks
 ```
 
+### [Albert](https://github.com/ManuelSchneid3r/albert)
+
+```sh
+$ sudo add-apt-repository ppa:noobslab/macbuntu
+$ sudo apt-get update
+$ sudo apt-get install albert
+
+# config
+# Websearch
+# URL: https://www.google.com.pe/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%s
+# Name: Google
+# Trigger: gg
+```
+
 ### Snap
 
 Universal linux app packages
