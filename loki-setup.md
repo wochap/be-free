@@ -66,6 +66,7 @@ $ sudo apt install snapd
 * Spotify
 * Simple Screen Recorder
 * Caffeine Plus
+* [Shotcut](https://www.shotcut.org/download/)
 * Gnome System Monitor
 ```sh
 $ sudo apt-get install gnome-system-monitor
