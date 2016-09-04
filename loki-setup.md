@@ -69,6 +69,7 @@ $ sudo apt install snapd
 ### Many apps
 
 * [Rambox](http://rambox.pro/)
+* [Katu](https://github.com/EragonJ/Kaku)
 * Gitkraken
 * Gitter
 * Hourglass
