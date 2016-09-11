@@ -195,3 +195,11 @@ Install [San Francisco](https://developer.apple.com/fonts/)
 Install [Capitaine Cursors](https://www.gnome-look.org/p/1148692/)
 
 Install [Elementary Plus](https://github.com/mank319/elementaryPlus)
+
+### Themes
+
+[Panther](https://www.gnome-look.org/p/1150507/)
+
+[Arc light](https://www.gnome-look.org/p/1013344/)
+
+[Arc dark](https://www.gnome-look.org/p/1013481/)
