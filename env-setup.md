@@ -17,6 +17,16 @@ $ git config --global user.name "wochap"
 ### [Git addons](https://github.com/stevemao/awesome-git-addons)
 
 * [Hub](https://github.com/github/hub)
+* [commitizen](https://www.npmjs.com/package/commitizen)
+
+```sh
+$ npm install -g commitizen
+$ npm i -g cz-conventional-changelog
+$ echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
+
+# now you can commit with 
+$ git cz
+```
 
 ## 2. [PHP + Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
 
