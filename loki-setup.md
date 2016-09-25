@@ -6,6 +6,12 @@
 
 add this [ppa](https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers) and update your system
 
+### Compatibilidad con Android y Iphone/Ipod 
+
+```sh
+$ sudo apt install mtp-tools ipheth-utils ideviceinstaller ifuse
+```
+
 ### Post install
 
 ```sh
