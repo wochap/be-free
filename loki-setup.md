@@ -212,4 +212,8 @@ Install [Elementary Plus](https://github.com/mank319/elementaryPlus)
 
 [Arc dark](https://www.gnome-look.org/p/1013481/)
 
+[Paper](https://snwh.org/paper/theme)
+
 [Flatabulous](https://github.com/anmoljagetia/Flatabulous) (ubuntu)
+
+
