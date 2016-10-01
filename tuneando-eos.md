@@ -54,6 +54,7 @@ $ nano ~/.config/plank/dock1/settings
   $ sudo apt-get install plank
   ```
   
+- [Cairo Dock](http://glx-dock.org/)
 
 ## [Docky](https://twobytech.wordpress.com/2016/01/15/instala-y-personaliza-docky-el-dock-que-el-dinero-no-puede-comprar/) 
 
