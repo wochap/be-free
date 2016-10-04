@@ -2,6 +2,17 @@
 
 ## 1. Fixes
 
+### (Microphone)[http://askubuntu.com/questions/508221/sound-input-device-microphone-not-working]
+
+```sh
+$ apt-get install pavucontrol
+$ pavucontrol
+
+# Go to the "Input Devices" tab
+# Click the lock icon to unlock the channels
+# Under "Port", select the correct microphone (front or rear)
+```
+
 ### Graphic drivers
 
 add this [ppa](https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers) and update your system
