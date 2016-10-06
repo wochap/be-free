@@ -85,6 +85,9 @@ $ sudo apt install snapd
 
 ### Many apps
 
+* [gnome pomodoro](https://github.com/codito/gnome-pomodoro)
+* [franz](http://meetfranz.com/#download)
+
 * [Rambox](http://rambox.pro/)
 * [Katu](https://github.com/EragonJ/Kaku)
 * Gitkraken
