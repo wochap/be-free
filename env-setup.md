@@ -201,6 +201,8 @@ Issues
 
 * [gvfs-trash](https://github.com/atom/tree-view/issues/345#issuecomment-135779498)
 
+* [terminal-plus](https://github.com/jeremyramin/terminal-plus/issues/321#issuecomment-242193432)
+
 ## 3. [ngrok](https://ngrok.com/)
 
 Linux install: Download zip and extract on /bin
