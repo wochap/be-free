@@ -165,6 +165,16 @@ $ fisher simple
 $ fisher /oh-my-fish/theme-cmorrell.com
 ```
 
+  - create a /home/{user_name}/.config/fish/config.fish file
+
+```
+# nvm use default 6.7.0
+set -gx NVM_DIR ~/.nvm
+
+# remove greeting
+set fish_greeting ""
+```
+
 * [Go Terminal](http://rungoterminal.com/)
 
 * [Terminator](http://gnometerminator.blogspot.pe/p/introduction.html)
