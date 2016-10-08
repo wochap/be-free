@@ -107,6 +107,7 @@ $ sudo apt install snapd
 ```sh
 $ sudo apt-get install gnome-system-monitor
 ```
+* [Pomadoro timer](https://quassy.github.io/elementary-apps/Tomato/)
 
 ### VLC
 
@@ -211,6 +212,8 @@ Install [Fira Code](https://github.com/tonsky/FiraCode)
 Install [San Francisco](https://developer.apple.com/fonts/)
 
 ### Icons
+
+Install [Elementary plus](https://github.com/mank319/elementaryPlus)
 
 Install [Capitaine Cursors](https://www.gnome-look.org/p/1148692/)
 
