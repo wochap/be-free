@@ -156,8 +156,8 @@ apt-key add - < Release.key
 # set fish default shell
 $ chsh -s /usr/bin/fish
 
-# install fish nvm
-$ fisher nvm
+# install fish [fnm](https://github.com/fisherman/fnm)
+$ fisher fnm
 
 # install fish theme simple
 $ fisher simple
