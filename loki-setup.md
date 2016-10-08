@@ -2,7 +2,7 @@
 
 ## 1. Fixes
 
-### (Microphone)[http://askubuntu.com/questions/508221/sound-input-device-microphone-not-working]
+### [Microphone](http://askubuntu.com/questions/508221/sound-input-device-microphone-not-working)
 
 ```sh
 $ apt-get install pavucontrol
