@@ -65,8 +65,8 @@ $ sudo apt-get install albert
 # config
 # update /usr/share/applications/Albert file with:
 
-# Icon=baloo
-# Name=Spotlight
+Icon=baloo
+Name=Spotlight
 ```
 
 ### Snap
