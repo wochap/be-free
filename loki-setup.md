@@ -213,6 +213,8 @@ Install [San Francisco](https://developer.apple.com/fonts/)
 
 ### Icons
 
+Install [El general](https://github.com/akaifi/El-General-Gnome)
+
 Install [Gnome Yosemite](https://github.com/ActusOS/GnomeYosemiteIcons)
 
 Install [Capitaine Cursors](https://www.gnome-look.org/p/1148692/)
