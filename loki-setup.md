@@ -129,6 +129,22 @@ $ sudo apt-get install google-chrome-stable
 # /etc/apt/sources.list.d/google.list
 ```
 
+### Firefox
+
+Download from website
+
+```sh
+# extract on /opt/firefox
+
+# create /usr/share/applications/firefox.desktop file
+
+[Desktop Entry]
+Name=Firefox
+Exec=/opt/firefox/firefox %U
+Icon=firefox
+Type=Application
+```
+
 ### Spotify
 
 ```sh
