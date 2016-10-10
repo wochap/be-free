@@ -107,7 +107,12 @@ $ sudo apt install snapd
 $ sudo apt-get install gnome-system-monitor
 ```
 * [Pomadoro timer](https://quassy.github.io/elementary-apps/Tomato/)
-
+* [Pinta](https://glatelier.org/2015/03/02/pinta-una-alternativa-al-clasico-paint-de-windows-linux-windows-y-mac/)
+```sh
+$ sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
+$ sudo apt-get update
+$ sudo apt-get install pinta
+```
 ### VLC
 
 ```sh
