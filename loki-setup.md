@@ -102,6 +102,12 @@ $ sudo apt install snapd
 * Simple Screen Recorder
 * Caffeine Plus
 * [Shotcut](https://www.shotcut.org/download/)
+* [f.lux](https://justgetflux.com/linux.html)
+```sh
+$ sudo add-apt-repository ppa:nathan-renniewaldock/flux
+$ sudo apt-get update
+$ sudo apt-get install fluxgui
+```
 * Gnome System Monitor
 ```sh
 $ sudo apt-get install gnome-system-monitor
