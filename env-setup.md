@@ -93,6 +93,10 @@ $ nvm install stable
 $ nvm alias default 5.6.0
 ```
 
+Globals packages 
+
+* [yarn](https://yarnpkg.com/en/docs/install)
+
 ## 4. [RVM](https://github.com/rvm/rvm) [Ubuntu guide](https://gorails.com/setup/ubuntu/16.04)
 
 ```sh
