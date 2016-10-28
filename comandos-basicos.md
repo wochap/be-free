@@ -4,6 +4,11 @@
 
 ```sh
 $ sudo dpkg -i DEB_PACKAGE
+
+# si existen problemas de dependencias
+# corre el siguiente comando
+# luego vuelve a intentar instalar
+$ sudo apt-get -f install
 ```
 
 - Create a RAM disk
