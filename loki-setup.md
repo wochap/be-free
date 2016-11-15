@@ -192,6 +192,14 @@ $ sudo apt-get update
 $ sudo apt-get install playonlinux
 ```
 
+### [wondershaper](http://blog.desdelinux.net/restringir-ancho-de-banda-interfaz-de-red/)
+
+```sh
+# ifconfig
+
+$ sudo wondershaper -a <interfaz> -d <download> -u <upload>
+```
+
 # 3. SSD Config
 
 ### [Create a ram disk](http://www.hecticgeek.com/2015/12/create-ram-disk-ubuntu-linux/) [for](https://bugs.launchpad.net/elementaryos/+bug/1415516):
