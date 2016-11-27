@@ -198,6 +198,7 @@ $ sudo apt-get install playonlinux
 # ifconfig
 
 $ sudo wondershaper -a <interfaz> -d <download> -u <upload>
+# sudo wondershaper -a wlp3s0 -d 1000 -u 200
 ```
 
 # 3. SSD Config
