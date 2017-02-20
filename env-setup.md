@@ -118,6 +118,13 @@ $ fisher rvm
 
 and install [docker-compose](https://docs.docker.com/compose/install/) // if neccesary
 
+```sh
+# access ssh
+$ sudo docker exec -i -t <docker-container-id> /bin/bash
+
+
+```
+
 # Apps
 
 ## 1. Terminal
