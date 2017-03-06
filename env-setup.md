@@ -274,3 +274,16 @@ $ sudo apt-get update
 
 $ sudo apt-get install nvidia-352 nvidia-settings
 ```
+
+# Environment Ubuntu (Digital Ocean)
+
+## Commands
+
+```
+# systemctl <restart|start|stop> nginx
+# 
+
+# open port
+$ iptables -I INPUT -p tcp --dport 12345 --syn -j ACCEPT
+$ iptables -S
+```
