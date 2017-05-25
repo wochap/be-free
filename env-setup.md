@@ -208,6 +208,10 @@ $ gsettings set org.pantheon.terminal.settings background '#0d1926'
 $ gsettings set org.pantheon.terminal.settings foreground '#b4e1fd'
 $ gsettings set org.pantheon.terminal.settings cursor_color '#b4e1fd'
 
+$ gsettings set org.pantheon.terminal.settings palette "#000000:#D5362C:#B9CA49:#E7C547:#268ACC:#C397D8:#268ACC:#FFFEFE:#000000:#D44D53:#B9C949:#E6C446:#268ACC:#C396D7:#268ACC:#FFFEFE"
+$ gsettings set org.pantheon.terminal.settings background 'rgba(0,40,51, 85)'
+$ gsettings set org.pantheon.terminal.settings foreground '#1C5C8C6'
+$ gsettings set org.pantheon.terminal.settings cursor_color '#C4C8C5'
 ```
 
 ## 2. Atom editor
