@@ -1,5 +1,11 @@
 # [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
+- Git
+
+```
+$ git clean -fd
+```
+
 - Install Deb apps
 
 ```sh
