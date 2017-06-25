@@ -220,6 +220,9 @@ tmpfs /mnt/ram tmpfs rw,size=1G,x-gvfs-show 0 0
 tmpfs /var/log tmpfs defaults,nosuid,nodev,noatime,mode=0755,size=5% 0 0
 tmpfs /var/cache/apt/archives tmpfs defaults,size=4g 0 0
 tmpfs /home/%NOMUSR%/.cache tmpfs defaults,size=1g 0 0
+
+# re mount
+$ sudo mount -a
 ```
 
 ### [No Writes for Read Timestamps](http://askubuntu.com/questions/1400/how-do-i-optimize-the-os-for-ssds)
