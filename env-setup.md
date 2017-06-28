@@ -234,6 +234,8 @@ Issues
 
 Linux install: Download zip and extract on /bin
 
+## 4. [dbvis](https://www.dbvis.com)
+
 # Clear 
 
 ## a) [Y PPA Manager](http://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
