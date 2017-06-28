@@ -114,9 +114,9 @@ $ fisher rvm
 # **IMPORTANT** if you have broken packages, you cant install ruby
 ```
 
-## 5. [Docker](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
+## 5. [Docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#next-steps)
 
-and install [docker-compose](https://docs.docker.com/compose/install/) // if neccesary
+install docker CE and follow post installation
 
 ```sh
 # access ssh
@@ -124,6 +124,8 @@ $ sudo docker exec -i -t <docker-container-id> /bin/bash
 
 
 ```
+
+## 6. [Java JDK](https://www.unixmen.com/install-oracle-java-jdk-8-elementary-os-luna-via-ppa/)
 
 # Apps
 
