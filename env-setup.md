@@ -127,6 +127,8 @@ $ sudo docker exec -i -t <docker-container-id> /bin/bash
 
 ## 6. [Java JDK](https://www.unixmen.com/install-oracle-java-jdk-8-elementary-os-luna-via-ppa/)
 
+## 7. [LAMP](https://www.lifeofgeek.com/install-lamp-elementary-os-loki/)
+
 # Apps
 
 ## 1. Terminal
