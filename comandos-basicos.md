@@ -1,5 +1,12 @@
 # [Comandos basicos](https://www.datacenter1.com/blog/programacion-web/comando-sistema-operativo-linux/)
 
+- Kill port
+
+```
+$ lsof -i:8081
+$ kill -9 6449
+```
+
 - Git
 
 ```
