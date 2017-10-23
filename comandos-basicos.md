@@ -4,7 +4,7 @@
 
 ```
 $ lsof -i:8081
-$ kill -9 6449
+$ kill -9 <PID>
 ```
 
 - Git
