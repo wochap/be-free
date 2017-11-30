@@ -123,7 +123,8 @@ install docker CE and follow post installation
 # access ssh
 $ sudo docker exec -i -t <docker-container-id> /bin/bash
 
-
+# monitor docker containers
+$ docker stats --all --format "table {{.ID}}\t{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}"
 ```
 
 ## 6. [Java JDK](https://www.unixmen.com/install-oracle-java-jdk-8-elementary-os-luna-via-ppa/)
