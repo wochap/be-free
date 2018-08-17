@@ -13,6 +13,8 @@ $ git config --global push.followTags true
 $ git config --global user.email "gean.marroquin@gmail.com"
 $ git config --global user.name "wochap"
 $ git config --global color.ui true
+$ git config --global push.default current
+$ git config --global alias.co checkout
 ```
 
 ### [Git addons](https://github.com/stevemao/awesome-git-addons)
